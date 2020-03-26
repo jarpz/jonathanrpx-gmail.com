@@ -2,4 +2,4 @@ spring:
   cloud:
     discovery:
       client.composite-indicator.enabled: true
-  application.name: 'my-litle-application'
+  application.name: 'my-litle-application 2'
