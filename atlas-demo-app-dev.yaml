@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    discovery:
+      client.composite-indicator.enabled: true
+  application.name: 'atlas-demo-app'
