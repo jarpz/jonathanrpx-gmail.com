@@ -3,3 +3,5 @@ spring:
     discovery:
       client.composite-indicator.enabled: false
   application.name: 'atlas-demo-app 3'
+
+fresita: 1
